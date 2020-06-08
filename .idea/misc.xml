@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security03/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security03_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security05/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security06/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security06_share/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security08/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security10/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security_demo02/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
